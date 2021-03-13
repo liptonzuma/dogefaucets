@@ -23,8 +23,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)
 - Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
 - Doge Litehouse [http://dogelitehouse.com](http://dogelitehouse.com/)<br>donate: D8Bu4UZA5m7TgL9rHVpcNE4EG7nCrTMVkT
-- Faucetpay [http://faucetpay.io]
-
+- Faucetpay [http://faucetpay.io]<br>Donate to :DPjaEtaCmq8wRKDZ4YZAK8iy6Xb9nCjpNq
 ### Broken
 
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)
